@@ -30,7 +30,7 @@ I'm a software engineer with 6+ years of experience building scalable backend sy
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=amazondynamodb&logoColor=white)
-![MySQL]
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 **Tools & Practices**\
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
