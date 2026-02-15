@@ -45,10 +45,6 @@ I'm a software engineer with 6+ years of experience building scalable backend sy
 |---------|-------------|------|
 | [**SkillSphere**](https://github.com/AshrafHosam/SkillSphere) | Skills management platform | C#, .NET |
 | [**SudtirolEvents**](https://github.com/AshrafHosam/SudtirolEvents) | Local events application for South Tyrol | C#, .NET |
-| [**WeatherSense**](https://github.com/AshrafHosam/WeatherSense) | Weather monitoring backend service | C#, .NET |
-| [**BoscoStay**](https://github.com/AshrafHosam/BoscoStay.ApartmentsManagement) | Apartments management system with a [frontend](https://github.com/AshrafHosam/BoscoStay.Master) | C#, JavaScript |
-| [**CleanArchitectureTemplate**](https://github.com/AshrafHosam/CleanArchitectureTemplate) | Reusable .NET Clean Architecture project template | C# |
-| [**AsyncAPI Demo**](https://github.com/AshrafHosam/AsyncAPI-Demo) | Demonstration of AsyncAPI specification | HTML |
 
 ---
 
